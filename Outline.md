@@ -1,5 +1,9 @@
 ## BSAD 8700 -- Business Analytics
-Days and Times: Wednesdays, 6:00 to 9:35 PM<br>
+Instructor: Dustin White, PhD
+
+Days and Times: Thursdays, 6:00 to 9:35 PM<br>
+Start Date: January 12th, 2017
+End Date: May 4th, 2017<br>
 Classroom: Mammel Hall 115
 
 This course is designed to help you learn about the most important methods underlying modern data analytics, how to use data tools to improve your understanding of business decisions, and how to communicate clearly with both data analysts about the goals of your team as well as with managers about results from data analysis projects.
@@ -35,37 +39,42 @@ In place of exams, this course will have two projects, which we will work on dur
 
 #### Project 1 - Due at the start of class, Week 5
 This project is designed to help you become acquainted with data analysis, and will require elements of each of the first four lectures and labs to complete. You must submit all of the code that you use during the process of completing this project. Aside from any visuals or code you submit, the project should be approximately 2-3 pages long.
-1. Using the ACS data provided, begin by choosing three plots that you made in PowerBI that you find most interesting, and explain what they tell us about some subset of ACS respondents.
-  * Why is this group interesting to you?
-  * What do you hope to learn by examining this group more closely?
-2. Using SQL, isolate your population(s) of interest from Step 1. Within the new population(s) that you have chosen, create summary statistics of the variables that you decide to investigate as well as any useful demographic information about respondents. Make sure to select at least 10 variables for use in this project.
-  * What are the means and standard deviations of the variables you are interested in?
-  * Looking at the minimum and maximum values, do you see anything that is worth noting? Do you think you should restrict your sample further to eliminate outliers?
-  * Why is it so important to look at summary statistics before plunging into the data?
-3. Based on your new sample from last class, create two visualizations of your data that could be used to inform policy or decisions. Explain why you chose those visuals, and what they suggest about your population of interest.
-  * What are the advantages of using data visualization to make decisions?
-  * Are there any disadvantages?
-  * How do you think that we should use data visualizations in decision-making?
-4. Continuing to use the population you selected in Week 2, run two separate linear regressions (using different dependent variables) in order to evaluate the impact of at least three parameters on each outcome (dependent variable).
-  * What do your regressions tell you about the population?
-  * Do you have any reason to believe that there is a causal relationship between your parameters and outcomes?
-  * What makes regression analysis so powerful?
+  1. Using the ACS data provided, begin by choosing three plots that you made in PowerBI that you find most interesting, and explain what they tell us about some subset of ACS respondents.
+    * Why is this group interesting to you?
+    * What do you hope to learn by examining this group more closely?
+
+  2. Using SQL, isolate your population(s) of interest from Step 1. Within the new population(s) that you have chosen, create summary statistics of the variables that you decide to investigate as well as any useful demographic information about respondents. Make sure to select at least 10 variables for use in this project.
+    * What are the means and standard deviations of the variables you are interested in?
+    * Looking at the minimum and maximum values, do you see anything that is worth noting? Do you think you should restrict your sample further to eliminate outliers?
+    * Why is it so important to look at summary statistics before plunging into the data?
+
+  3. Based on your new sample from last class, create two visualizations of your data that could be used to inform policy or decisions. Explain why you chose those visuals, and what they suggest about your population of interest.
+    * What are the advantages of using data visualization to make decisions?
+    * Are there any disadvantages?
+    * How do you think that we should use data visualizations in decision-making?
+
+  4. Continuing to use the population you selected in Week 2, run two separate linear regressions (using different dependent variables) in order to evaluate the impact of at least three parameters on each outcome (dependent variable).
+    * What do your regressions tell you about the population?
+    * Do you have any reason to believe that there is a causal relationship between your parameters and outcomes?
+    * What makes regression analysis so powerful?
 
 
 
 #### Project 2 - Due at the start of class, Week 8
 This time around, you will be making use of a dataset voted on by the class. You will focus in this project on making the most accurate out-of-sample prediction possible. I will introduce new techniques each week in order to help you develop more accurate predictions of the outcomes of interest. Once again, all code used in the course of the project must be submitted. The writeup for this project should be 1-2 pages long, not including any visuals that you choose to utilize.
-1. Using the training data, come up with your best explanation of how to predict the outcome of interest using visualizations of the data. Write down a procedure for deciding how to classify new observations.
-  * How accurate are your predictions? (I will test the procedure out for you over the week after lab.)
-  * What was the biggest problem for you in making accurate predictions?
-  * What would you change if you made predictions like this again?
-2. Implement two different decision tree classifiers to make the same predictions that you tried to make in Step 1. Use different attributes in each implementation, and compare the results. How well do decision trees do in predicting out-of-sample observations?
-  * What was the accuracy reported by each of your decision tree classifiers?
-  * What was (were) the hardest part(s) of implementing the decision trees?
-  * What strengths (and shortcomings) have you observed while using decision trees?
-3. Create a random forest using one (or both!) of your decision trees from Step 2. Generate your forest using 100 and 1000 trees. Is a random forest an improvement from your decision tree classifier? Is it superior to your procedure from Step 1?
-  * What do you think might make a random forest more powerful than a single decision tree?
-  * Does a random forest solve any of the shortcomings of decision trees?
+  1. Using the training data, come up with your best explanation of how to predict the outcome of interest using visualizations of the data. Write down a procedure for deciding how to classify new observations.
+    * How accurate are your predictions? (I will test the procedure out for you over the week after lab.)
+    * What was the biggest problem for you in making accurate predictions?
+    * What would you change if you made predictions like this again?
+
+  2. Implement two different decision tree classifiers to make the same predictions that you tried to make in Step 1. Use different attributes in each implementation, and compare the results. How well do decision trees do in predicting out-of-sample observations?
+    * What was the accuracy reported by each of your decision tree classifiers?
+    * What was (were) the hardest part(s) of implementing the decision trees?
+    * What strengths (and shortcomings) have you observed while using decision trees?
+
+  3. Create a random forest using one (or both!) of your decision trees from Step 2. Generate your forest using 100 and 1000 trees. Is a random forest an improvement from your decision tree classifier? Is it superior to your procedure from Step 1?
+    * What do you think might make a random forest more powerful than a single decision tree?
+    * Does a random forest solve any of the shortcomings of decision trees?
 
 
 ### Course Schedule
