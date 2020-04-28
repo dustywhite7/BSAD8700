@@ -25,13 +25,12 @@ class: default
 
 ### A rockin' table
 
-![h:600px](regressionTable.png)
+![bg left w:500](regressionTable.png)
 
 ---
 
-### A rockin' table
-
 ![h:600px](expansionEffect.png)
+
 
 ---
 
