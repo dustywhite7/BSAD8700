@@ -11,6 +11,7 @@ Aside from any visuals or code you submit, the writeup should be approximately 2
     - What variables will you need?
         - Will you need to aggregate data at the play level? The team level? The season level?
     - Write a 1-2 paragraph proposal of what you plan to do in your research project.
+    - Publish your favorite visuals to Tableau Online!
 
     
 2) **(After Completing Topic 2)** Using SQL queries, isolate the data your team needs in order to test the hypothesis you developed in Step 1. 
@@ -28,6 +29,8 @@ Aside from any visuals or code you submit, the writeup should be approximately 2
         - What are the advantages of using data visualization to make decisions?
         - Are there any disadvantages?
         - How do you think that we can best use data visualizations in decision-making?
+    - Publish your work to Tableau Online.
+
 
 4) **(After Completing Topic 4)** Continuing to use the data you selected in Week 2, run two separate linear regressions in order to evaluate the impact of at least three parameters on your outcome of interest (dependent variable). 
     - If this is not feasible, determine how you can modify your data to perform the desired regressions, and then modify your data accordingly before attempting the regressions. 

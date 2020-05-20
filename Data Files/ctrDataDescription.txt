@@ -1,0 +1,31 @@
+Data Description
+
+In online advertising, click-through rate (CTR) is a very
+important metric for evaluating ad performance. 
+As a result, click prediction systems are essential and 
+widely used for sponsored search and real-time bidding.
+
+This data is a sample of Avazu digital advertising data 
+to build and test prediction models for online clickthrough
+rates. Can you find the best strategy to model the likelihood
+that a viewer will click on an ad?
+
+Data fields
+
+id: ad identifier
+click: 0/1 for non-click/click
+hour: format is YYMMDDHH, so 14091123 means 23:00 on Sept. 11, 2014 UTC.
+C1 -- anonymized categorical variable
+banner_pos
+site_id
+site_domain
+site_category
+app_id
+app_domain
+app_category
+device_id
+device_ip
+device_model
+device_type
+device_conn_type
+C14-C21 -- anonymized categorical variables
