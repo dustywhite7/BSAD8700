@@ -120,8 +120,9 @@ a sentient robot. It is just an algorithm that has been taught to do one specifi
 # Our new data
 
 Let me take you on a tour of the dataset we will be using:
-[Nebraska Fire Injuries](https://raw.githubusercontent.com/dustywhite7/BSAD8700/master/Data%20Files/fireInjury.csv)
-Information on the data is provided for your reference in the accompanying [data dictionary](https://github.com/dustywhite7/BSAD8700/blob/master/Data%20Files/fireDataDictionary.pdf)
+[Click-Through Rate Prediction](https://github.com/dustywhite7/BSAD8700/tree/master/Data%20Files). The data are divided into [training data](https://github.com/dustywhite7/BSAD8700/raw/master/Data%20Files/ctr_train_data.csv) and [testing data](https://github.com/dustywhite7/BSAD8700/raw/master/Data%20Files/ctr_test_data.csv). For now, just use the **training data**.
+
+Information on the data is provided for your reference in the accompanying [data dictionary](https://raw.githubusercontent.com/dustywhite7/BSAD8700/master/Data%20Files/ctrDataDescription.txt)
 
 ---
 
