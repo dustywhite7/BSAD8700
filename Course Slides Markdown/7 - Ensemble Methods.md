@@ -86,7 +86,7 @@ $$ \text{F1} = \frac{2 \cdot \text{Precision} \cdot \text{Recall}}{\text{Precisi
 
 # Random forests
 
-![bg right](ensemble3.png)
+![bg left](ensemble3.png)
 
 - A forest of decision trees
 - Each tree is assigned a **random** set of **variables and data**
@@ -124,5 +124,5 @@ Just like Random Forests are extremely popular, **xgBoost** is a boosting model 
 # For lab
 
 - Together with your team, build an ensemble model. You can use Random Forests, another ensemble model, or even experiment by building your own!
-- Try to get the best accuracy (or precision! or recall!) that you can!
+- Try to get the best accuracy (or precision! or recall! or F1!) that you can!
 - If you are lost, ASK QUESTIONS! You might also want to refer to the [tutorial videos](https://www.youtube.com/playlist?list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy) again.

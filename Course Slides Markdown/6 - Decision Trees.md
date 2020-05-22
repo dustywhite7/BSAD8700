@@ -31,7 +31,7 @@ $$ H(x) = -\sum_{i=1}^n p(x_i) \; log \; p(x_i) $$
 # So what?
 
 Entropy can be used as a measure to determine how we can use information effectively
-- We can use entropy to create **Decision Trees**
+- Use it to create **Decision Trees**
 
 ---
 
@@ -39,14 +39,14 @@ Entropy can be used as a measure to determine how we can use information effecti
 
 - Made up of nodes and branches
 - Seek to "purify" information about different groups
-- They are like a statistical game of "20 questions" (but can have different numbers of questions)
+- They are like a statistics version of "20 questions" (but can absolutely have different numbers of questions)
 
 ---
 
 # Entropy and decision trees
 
-- Entropy is how we choose which data to use in our tree
-- If we have many features (the most common case), then we don't have the capacity to work with trial and error!
+- Entropy is one way that we choose which data to use in our tree
+- If we have many features (the most common case), then trial and error would take forever! (Remember last lab??)
 
 ---
 
