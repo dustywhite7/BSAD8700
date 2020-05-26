@@ -15,7 +15,7 @@ class: default
 
 What makes a good predictive model?
 - Good code
-- **Helpful data**
+- **Useful data**
 
 Firms share their code, while protecting their data
 
