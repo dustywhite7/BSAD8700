@@ -28,7 +28,7 @@ Causation: One variable moves, and the second variable changes because of the mo
 When we suspect a causal relationship (that $x$ causes $y$), it is important to ask ourselves several questions:
 
 1. Is it possible that $y$ causes $x$ instead?
-2. It is possible that $z$ (a new factor that we haven't considered before) is causing both $x$ and $y$?
+2. Is it possible that $z$ (a new factor that we haven't considered before) is causing both $x$ and $y$?
 3. Could the relationship have been observed by chance?
 
 ---
